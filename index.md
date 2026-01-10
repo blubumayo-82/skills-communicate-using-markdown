@@ -12,3 +12,8 @@ def hello_github(hi):
     hi = "Hello GitHub, my name is Blubumayo-82"
     return hi
 ```
+
+### List of Skills to Learn
+- [x] Python Basics
+- [x] Java Basics
+- [ ] Python Libraries
